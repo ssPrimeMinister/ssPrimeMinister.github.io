@@ -6,7 +6,7 @@
 name: Hayden James
 
 # Short bio or description (displayed in the header)
-description: Current senior at Oregon Episcopal School enrolled in a Machine Learning course using Python.
+description: Current senior at Oregon Episcopal School enrolled in a Python Machine Learning course.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/StudentPhoto.jpeg
@@ -18,11 +18,11 @@ avatar: /images/StudentPhoto.jpeg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: ssprimeministerhj@gmail.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
+  github: https://github.com/ssPrimeMinister
+  instagram: https://www.instagram.com/penrose_artistry/?hl=en
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
