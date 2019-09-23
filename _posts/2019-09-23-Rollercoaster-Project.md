@@ -5,7 +5,7 @@ title: Rollercoasters
 
 <a href='https://github.com/ssPrimeMinister/Rollercoaster/blob/master/Lydia%20Zhang%20and%20Hayden%20Nelson%20-%20Roller%20Coaster%20Project.ipynb'>This project</a> dealt with categorizing and evaluating rollercoasters. The goal was to discover interesting facts about different rollercoasters around the world and evaluate them based on set criteria (either set by the user or to a default).
 
-<img src="/images/coaster.png" alt="Inversions vs. Speed" width="500" class="center"/>
+<img src="/images/coaster.png" alt="Inversions vs. Speed" width="400" class="center"/>
 
 
 <i>Image above is a simple graph showing the correlation between speed and the number of inversions. It is clear that a high speed is associated with little to no inversions, and lower speeds have higher numbers of inversions</i>.
