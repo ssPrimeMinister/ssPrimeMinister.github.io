@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rollercoasters
+title: Rollercoasters Mini Project
 ---
 
 <a href='https://github.com/ssPrimeMinister/Rollercoaster/blob/master/Lydia%20Zhang%20and%20Hayden%20Nelson%20-%20Roller%20Coaster%20Project.ipynb'>This project</a> dealt with categorizing and evaluating rollercoasters. The goal was to discover interesting facts about different rollercoasters around the world and evaluate them based on set criteria (either set by the user or to a default).
