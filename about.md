@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Aspiring data scientist backed by two semesters of computer science. Currently learning about machine learning using Python.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ssprimeministerhj@gmail.com](mailto:ssprimeministerhj@gmail.com)
