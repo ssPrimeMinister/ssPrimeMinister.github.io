@@ -5,7 +5,7 @@ title: Regression Project
 
 <a href='https://github.com/ssPrimeMinister/Regression_Project'>This project</a> performed a regression on all the aircraft crash data since 1908. The goal of this project was to see which factors were the most influential in adding to the deaths of each crash (regarded as the percent of people onboard which died, thus the value can be greater than 1 if the crash killed some on the ground). 
 
-The most difficult aspect of the project was cleaning the data, especially dealing with the summary column (which is just a huge string of characters). I chose to break the summary column into the words contained within it. I then chose, based on what I thought would describe the most situations, specific words to included in the regression (shown in the notebook). For example, "shot down" does a good job of explaining many crashes in which the plane was attacked, so I chose to add "shot down" as a predictor variables. 
+The most difficult aspect of the project was cleaning the data, especially dealing with the summary column (which is just a huge string of characters). I decided to break the summary column into the words contained within it. I then chose, based on what I thought would describe the most situations, specific words to included in the regression (shown in the notebook). For example, "shot down" does a good job of explaining many crashes in which the plane was attacked, so I chose to add "shot down" as a predictor variables. 
 
 After conducting the regression, the most correlated values were:  
 
