@@ -25,6 +25,14 @@ Below is a log of my daily progress, including:
 
 **January 8th**
 
+1.) Today I discovered a method for eliminating non-unicode characters from a CSV file.
+
+2.) I learned how to deal with non-unicode characters in byte form—they are greater than 128. My questions were mainly surrounding what to do with the bytes of a file when only ready in byte-form. Yesterday, I managed to access the byte version of the file with 'rb,' but I didn't know what to actually do with the bytes. After discovering that all unicode bytes are 128 or less, I then only saved the bytes with that restriction. Then, I interpreted those bytes with bytes([b]). Finally, I combined all the remaining lists of single letters and other unicode characters by the commas separating them.
+
+3.) No current roadblocks, I just need to move onto my next goals.
+
+4.) Tomorrow, I hope to comment my code from today and move on to interpreting the datatypes of the columns.
+
 **January 9th**
 
 **January 10th**
