@@ -75,4 +75,12 @@ Below is a log of my daily progress, including:
 
 **January 16th**
 
+.) I stumbled upon something that was killing my kernel: MultiIndexing. Thus, all my work today was devoted to fixing that error.
+
+2.) I did not even know MultiIndexes exist. As I found out, when I was converting each column to either an integer or a string, I used to_numeric instead of astype(float). I thought that they would produce the same thing but, as I discovered, they do not. When I was casting a column to a float with to_numeric, I was adding an index inside of a column. That is to say, each row had an index, as they always do, but each entry in a specific column also had an index specific to that column. However, because I didn't change any of the indices, the internal column index was the same as the row index. But, nevertheless, it seemed my kernel could not handle trying to covert this MultiIndex to a one hot category.
+
+3.) No roadblocks right now, I solved my problem by using astype instead of to_numeric
+
+4.) My goals for the weekend are to successfully implement the regression systems. I do not see this as being too difficult, as I have already done projects with each (so I will just have to figure out a way to make them generalizable).
+
 **January 17th**
